@@ -2,13 +2,13 @@ GSB Ordonnance
 
 Application de gestion des prescriptions médicales développée en C# .NET 8 avec une interface WinForms moderne.
 
-📋 Description
+Description
 
 GSB Ordonnance est une application de bureau complète permettant la gestion des patients, des prescriptions et de leurs interactions.
 Elle offre une interface utilisateur intuitive avec un thème sombre, une authentification sécurisée et des fonctionnalités avancées d'export de données.
 
 
-🛠 Technologie
+Technologie
 
 C# .NET 8
 WinForms
@@ -18,7 +18,7 @@ QuestPDF (export PDF)
 Architecture MVC
 
 
-✨ Fonctionnalités principales
+Fonctionnalités principales
 
 Gestion complète des patients (CRUD)
 Gestion des prescriptions avec transactions atomiques
@@ -28,7 +28,7 @@ Export de prescriptions en PDF
 Démonstrations de sécurité (injection SQL)
 
 
-📁 Structure du projet
+Structure du projet
 
 models/           Modèles de données
 controllers/      Logique métier
